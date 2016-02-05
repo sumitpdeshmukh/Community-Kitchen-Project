@@ -1,0 +1,5 @@
+userinterface.AdministrativeRole.ManageParticipantJPanel
+userinterface.AdministrativeRole.ManageParticipantJPanel$1
+userinterface.AdministrativeRole.ManageParticipantJPanel$4
+userinterface.AdministrativeRole.ManageParticipantJPanel$3
+userinterface.AdministrativeRole.ManageParticipantJPanel$2
